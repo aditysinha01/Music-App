@@ -1,3 +1,2 @@
 # Music-App
-Tech Stack- HTML5, CSS3, JavaScript
-Built a fully functional Music App using HTML5, CSS3 and JavaScript.
+Created a fully functional music app using HTML, CSS, and JavaScript, featuring a responsive UI with dynamic playlist management, audio player controls, and song library integration. Implemented features include search functionality, playback controls (play, pause, skip), and seamless song transitions. Ensured accessibility with keyboard support and optimized performance across browsers. Demonstrated proficiency in front-end development, UI/UX design, and integrating multimedia elements.
